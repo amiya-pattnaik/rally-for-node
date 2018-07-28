@@ -12,16 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:amiya-pattnaik/rally-for-node.git"
   },
   "dependencies": {
+    "async": "*",
     "assert": "^1.4.1",
-    "should": "^13.1.3"
+    "rally": "^2.1.2"
   },
   "devDependencies": {
-    "async": "*",
     "mocha": "^4.0.1",
-    "rally": "^2.1.2",
     "should": "^13.2.1"
   },
   "keywords": [
