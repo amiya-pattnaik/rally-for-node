@@ -1,0 +1,33 @@
+{
+  "name": "rally-for-node",
+  "version": "1.0.0",
+  "description": "rally api wrapper for node",
+  "author": "Amiya Pattanaik <pattnaik_amiya@yahoo.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "engines": {
+    "node": ">=6.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "assert": "^1.4.1",
+    "should": "^13.1.3"
+  },
+  "devDependencies": {
+    "async": "*",
+    "mocha": "^4.0.1",
+    "rally": "^2.1.2",
+    "should": "^13.2.1"
+  },
+  "keywords": [
+    "rally",
+    "node"
+  ],
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
