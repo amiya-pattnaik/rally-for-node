@@ -1,6 +1,6 @@
 {
   "name": "rally-for-node",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "rally api wrapper for node",
   "author": "Amiya Pattanaik <pattnaik_amiya@yahoo.com>",
   "main": "index.js",
